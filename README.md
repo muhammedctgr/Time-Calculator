@@ -29,3 +29,6 @@ add_time("11:43 PM", "24:20", "tueSday")
 
 add_time("6:30 PM", "205:12")
  Returns: 7:42 AM (9 days later)`
+ 
+# Development
+For development, you can use main.py to test the time_calculator() function.
